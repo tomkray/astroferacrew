@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 1111,
   "WEI_COST": 0,
   "DISPLAY_COST": 0.00,
-  "GAS_LIMIT": 165000,
+  "GAS_LIMIT": 200000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/astrofera",
   "SHOW_BACKGROUND": true
